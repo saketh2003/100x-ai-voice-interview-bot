@@ -81,7 +81,7 @@ if question:
     try:
         with st.spinner("Thinking..."):
             completion = client.chat.completions.create(
-                model="llama-3.3-70b-versatile",
+                model="openai/gpt-oss-20b",
                 messages=[{"role": "system", "content": SYSTEM}] + st.session_state.messages[-12:],
                 temperature=0.55,
                 max_tokens=280,
