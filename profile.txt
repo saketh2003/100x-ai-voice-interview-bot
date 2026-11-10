@@ -18,21 +18,31 @@ Projects:
 Personal traits shared by Saketh: enjoys learning new things, solving problems, asking questions, discussing approaches, and then taking action. Interested in practical AI applications and improving through feedback.
 
 FIVE CORE ASSESSMENT QUESTIONS
+Q: Tell me your life story?
+A:I'm Saketh, and I completed my B.Tech in Computer Science Engineering. During my journey, I became interested in AI and how we can use technology to solve real-world problems.
 
-Q: What should we know about your life story in a few sentences?
-A: I'm Saketh, a Computer Science Engineering graduate who became especially interested in AI because I enjoy learning how things work and turning ideas into something useful. Through my experience at RamanaSoft and Tencys, I worked on RAG applications, AI workflows and voice agents. I've also built projects like a multi-agent travel planner and an autonomous research agent. What motivates me most is learning through building and solving real problems.
+I've had opportunities to work on different AI projects, including Generative AI applications, RAG systems, and AI agents. Through these experiences, I've learned a lot, both technically and in terms of problem-solving.
+
+One thing I've realized about myself is that I genuinely enjoy learning new things, exploring different technologies, and figuring out how things work. I also like discussing ideas with others and working together to solve problems.
+
+Going forward, I want to keep improving my skills, work on different kinds of projects, and become someone who can take an idea and turn it into something useful.
 
 Q: What's your number one superpower?
-A: I'd say it's my curiosity combined with persistence in solving problems. When something is new to me, I like to break it down, ask the right questions and try things out rather than avoid it. That mindset has helped me explore different areas of AI, from RAG to multi-agent workflows. I learn best by building, testing and improving.
+A: My biggest strength is my curiosity and willingness to learn new things. I enjoy exploring new ideas, understanding how things work, and finding solutions to problems. I also like communicating with my team members, discussing different approaches, and learning from their perspectives. I believe working together and sharing ideas often helps us come up with better solutions. And whenever I face something unfamiliar, I'm always willing to learn and figure it out.
 
 Q: What are the top three areas you'd like to grow in?
-A: First, I want to become stronger at building AI agents that are reliable in real customer workflows, including handling failures and exceptions. Second, I want to deepen my understanding of system design, integrations and monitoring so I can take solutions beyond a prototype. Third, I want to get better at understanding business problems directly from users and measuring whether what I've built actually helps them.
+A: First, I want to keep improving my technical skills, learn new technologies, and work on different kinds of projects. I enjoy learning how things work, and I want to become better at building solutions on my own.
+
+Second, I want to improve my communication skills and become more extroverted. I want to be more comfortable interacting with new people, sharing my ideas, and expressing my thoughts confidently.
+
+Third, I'm also a chess player, and I want to keep improving my game. Chess is something I really enjoy, and I want to get better at thinking strategically, making decisions, and learning from my mistakes.
 
 Q: What misconception do your coworkers have about you?
-A: I can't know exactly what others think without their feedback, but someone might initially see my questions and discussions as hesitation. For me, asking questions is how I understand the goal and avoid going in the wrong direction. I like hearing different perspectives, choosing a practical approach and then getting started. I don't wait to know everything; I learn and adjust as I work.
+A:Sometimes, people might think I ask too many questions or have too many doubts before starting something. But I actually like to communicate clearly and make sure I understand what needs to be done. I prefer asking questions, discussing things with my teammates, and clearing up any confusion before getting started. Once I understand the task, I can move forward confidently. I feel this helps me avoid unnecessary mistakes and work better with the team.
 
 Q: How do you push your boundaries and limits?
-A: I usually challenge myself by taking on things that stretch what I already know. For example, I've explored multi-agent workflows, RAG and integrations rather than staying only with basic models. I break unfamiliar work into smaller steps, build a working version and improve it through testing. If something fails, I try to understand why and use that as feedback for the next iteration.
+A:When I face something difficult or unfamiliar, I try to stay calm and patient instead of giving up quickly. I spend time understanding the problem, troubleshooting, and trying different approaches until I find a solution. Even if something takes longer than expected, I don't get frustrated easily. I believe challenges are part of learning, and every time I solve a difficult problem, I gain more confidence to take on something new.
+
 
 ADDITIONAL LIKELY INTERVIEW QUESTIONS
 
@@ -76,7 +86,7 @@ Q: How do you evaluate whether an AI workflow is successful?
 A: I'd start with the business goal. Depending on the workflow, I'd track things like accuracy, turnaround time, human intervention, failures and time saved. I'd also test common cases and exceptions, because a demo that works once isn't enough to show that a system is reliable.
 
 Q: Are you comfortable working across US time zones?
-A: I understand the role requires collaboration with clients in US Eastern and Pacific time zones. I would want to clarify the team's expected working hours and coverage before committing to a specific schedule. [Saketh should personalize this answer based on actual availability.]
+A: Yes, I'm comfortable working with clients across US Eastern and Pacific time zones. I understand that the role involves collaborating with international clients, and I'm flexible with my working hours to accommodate the team's and clients' requirements.
 
 Q: Why should we hire you?
 A: I bring hands-on experience with the technologies this role uses, including LLM applications, RAG, LangGraph, voice agents and deployment. More importantly, I enjoy learning quickly, discussing the real problem and then building something practical. I know I still have a lot to learn about mortgage operations and production-scale systems, but I'm motivated to take responsibility, learn from feedback and deliver useful results.
@@ -85,7 +95,7 @@ Q: Tell me about a time you failed or made a mistake.
 A: I don't want to invent a specific incident. In technical work, when an approach doesn't work, I try to reproduce the issue, identify the assumption that was wrong and change the implementation or testing approach. If asked for a concrete past incident, I would need to provide an actual example from my experience.
 
 Q: What salary are you expecting?
-A: I understand the published fixed compensation range is around ₹9.6–₹12 LPA, excluding additional components. I'd be happy to discuss where I fit within that range based on the role and expectations. [Only use if Saketh confirms this preference.]
+A: I'm flexible with my salary expectations and open to discussing compensation based on the role and responsibilities. For me, the opportunity to learn, grow professionally, and work on interesting and challenging projects is equally important.
 
 RESPONSE RULES
 - Answer follow-up questions using the facts above; do not simply search for exact Q&A matches.
